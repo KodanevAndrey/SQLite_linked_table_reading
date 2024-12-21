@@ -1,0 +1,16 @@
+E:\VS_C#_Projects\TestConnectToDBeaver\TestConnectToDBeaver\bin\Debug\TestConnectToDBeaver.exe.config
+E:\VS_C#_Projects\TestConnectToDBeaver\TestConnectToDBeaver\bin\Debug\TestConnectToDBeaver.exe
+E:\VS_C#_Projects\TestConnectToDBeaver\TestConnectToDBeaver\bin\Debug\TestConnectToDBeaver.pdb
+E:\VS_C#_Projects\TestConnectToDBeaver\TestConnectToDBeaver\bin\Debug\EntityFramework.dll
+E:\VS_C#_Projects\TestConnectToDBeaver\TestConnectToDBeaver\bin\Debug\EntityFramework.SqlServer.dll
+E:\VS_C#_Projects\TestConnectToDBeaver\TestConnectToDBeaver\bin\Debug\System.Data.SQLite.dll
+E:\VS_C#_Projects\TestConnectToDBeaver\TestConnectToDBeaver\bin\Debug\System.Data.SQLite.EF6.dll
+E:\VS_C#_Projects\TestConnectToDBeaver\TestConnectToDBeaver\bin\Debug\System.Data.SQLite.Linq.dll
+E:\VS_C#_Projects\TestConnectToDBeaver\TestConnectToDBeaver\bin\Debug\EntityFramework.xml
+E:\VS_C#_Projects\TestConnectToDBeaver\TestConnectToDBeaver\bin\Debug\EntityFramework.SqlServer.xml
+E:\VS_C#_Projects\TestConnectToDBeaver\TestConnectToDBeaver\bin\Debug\System.Data.SQLite.xml
+E:\VS_C#_Projects\TestConnectToDBeaver\TestConnectToDBeaver\obj\Debug\TestConnectToDBeaver.csproj.AssemblyReference.cache
+E:\VS_C#_Projects\TestConnectToDBeaver\TestConnectToDBeaver\obj\Debug\TestConnectToDBeaver.csproj.CoreCompileInputs.cache
+E:\VS_C#_Projects\TestConnectToDBeaver\TestConnectToDBeaver\obj\Debug\TestConn.3A583947.Up2Date
+E:\VS_C#_Projects\TestConnectToDBeaver\TestConnectToDBeaver\obj\Debug\TestConnectToDBeaver.exe
+E:\VS_C#_Projects\TestConnectToDBeaver\TestConnectToDBeaver\obj\Debug\TestConnectToDBeaver.pdb
