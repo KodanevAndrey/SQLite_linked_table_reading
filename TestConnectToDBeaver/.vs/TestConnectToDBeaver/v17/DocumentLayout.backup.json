@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\VS_C#_Projects\\TestConnectToDBeaver\\",
+  "WorkspaceRootPath": "E:\\VS_C#_Projects\\TestConnectToDBeaver\\SQLite_linked_table_reading\\TestConnectToDBeaver\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B495132-3C55-4FC9-8DB1-220756FE4782}|TestConnectToDBeaver\\TestConnectToDBeaver.csproj|e:\\vs_c#_projects\\testconnecttodbeaver\\testconnecttodbeaver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B495132-3C55-4FC9-8DB1-220756FE4782}|TestConnectToDBeaver\\TestConnectToDBeaver.csproj|e:\\vs_c#_projects\\testconnecttodbeaver\\sqlite_linked_table_reading\\testconnecttodbeaver\\testconnecttodbeaver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B495132-3C55-4FC9-8DB1-220756FE4782}|TestConnectToDBeaver\\TestConnectToDBeaver.csproj|solutionrelative:testconnecttodbeaver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\VS_C#_Projects\\TestConnectToDBeaver\\TestConnectToDBeaver\\Program.cs",
+              "DocumentMoniker": "E:\\VS_C#_Projects\\TestConnectToDBeaver\\SQLite_linked_table_reading\\TestConnectToDBeaver\\TestConnectToDBeaver\\Program.cs",
               "RelativeDocumentMoniker": "TestConnectToDBeaver\\Program.cs",
-              "ToolTip": "E:\\VS_C#_Projects\\TestConnectToDBeaver\\TestConnectToDBeaver\\Program.cs",
-              "RelativeToolTip": "TestConnectToDBeaver\\Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAowDoAAAAZAAAAAAAAAA==",
+              "ToolTip": "E:\\VS_C#_Projects\\TestConnectToDBeaver\\SQLite_linked_table_reading\\TestConnectToDBeaver\\TestConnectToDBeaver\\Program.cs*",
+              "RelativeToolTip": "TestConnectToDBeaver\\Program.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T11:41:01.047Z",
               "EditorCaption": ""
